@@ -14,7 +14,7 @@ class AnimalsPage extends StatelessWidget {
       body: Column(
         children: [
           WidgetAppBar(
-            title: "اصوات الحيوانات",
+            title: "أصوات الحيوانات",
             color: Colors.green,
           ),
           BodyWidgetAnimals(),
